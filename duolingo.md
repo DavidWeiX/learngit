@@ -1,4 +1,4 @@
-# Duolingo
+# Duolingo.com
 
 > ## xiongwei0218@gmail.com
 > ## xiong2016dlg
